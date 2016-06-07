@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Garick Bay]]></title>
+        <description><![CDATA[Garick Bay]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 07 Jun 2016 14:25:23 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First Post on Grid]]></title>
+            <description><![CDATA[<p>Well, this is the first post in a very long time that I have gotten Grid beta. Am now going to start posting different stuff to see how the Grid works ! Am excited ;)</p>]]></description>
+            <link>undefinedfirst-post-on-grid/index.html</link>
+            <guid isPermaLink="false">200293fa-8fea-4657-a2e1-a07c5026bd25</guid>
+            <pubDate>Tue, 07 Jun 2016 14:24:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
